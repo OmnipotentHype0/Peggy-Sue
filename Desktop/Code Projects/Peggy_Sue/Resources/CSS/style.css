@@ -6,9 +6,22 @@
     color: white;
 }
 
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    color: white
+}
+
 body {
     background-color: black;
     background: scroll;
+}
+
+footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+    font-style: italic;
+    color: white;
 }
 
 /* Headings */
@@ -18,9 +31,23 @@ h1 {
     color: antiquewhite;
 
 }
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: italic;
+}
 /*Media */
 
 img {
     align-items: center;
     position: fixed;
+}
+
+/*Classes, IDs and Tags styling */
+
+.footer {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-small;
+    color: whitesmoke;
 }
