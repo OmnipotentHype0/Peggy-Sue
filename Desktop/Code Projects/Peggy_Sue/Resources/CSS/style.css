@@ -11,3 +11,16 @@ body {
     background: scroll;
 }
 
+/* Headings */
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: antiquewhite;
+
+}
+/*Media */
+
+img {
+    align-items: center;
+    position: fixed;
+}
